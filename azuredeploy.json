@@ -1,0 +1,134 @@
+
+{
+  "myarray": [
+    {
+      "myvector0": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "myvector1": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+			"myHorribleVector0": [{"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }, {"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }, {"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }, {"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }, {"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }, {"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }, {"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }, {"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }, {"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }, {"myHorribleObject1": {"myHorribleObject2": {"myHorribleObject3": {"myHorribleObject4":"a horrible thing"}}} }]
+		},
+    {
+      "myvector3": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "myvector4": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "myvector5": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "myvector6": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "myvector7": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "myvector8": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "myvector9": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ]
+}
